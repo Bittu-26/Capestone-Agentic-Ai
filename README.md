@@ -1,5 +1,5 @@
-"""
-# AutoConcierge — Capstone Agent (Concierge Agents Track)
+
+# AutoConcierge Capstone Agent (Concierge Agents Track)
 
 **Project pitch**
 Writing detailed, well-researched articles or briefing notes is time-consuming. AutoConcierge is an automated, multi-agent concierge that: 
@@ -26,4 +26,4 @@ Writing detailed, well-researched articles or briefing notes is time-consuming. 
 
 **Deadline note**: Submit by **December 1, 2025 11:59 AM PT** (as required).
 
-"""
+
